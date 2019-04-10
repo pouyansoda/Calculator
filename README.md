@@ -1,3 +1,3 @@
 # Calculator
-It was a good experience to work on Calculator, Here is the uploaded version 
+Simple calculator made with React. Personal Project for Restart Network's Guide Level. 
 https://calculator-app-ps.herokuapp.com/
